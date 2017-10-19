@@ -14,7 +14,6 @@ import org.apache.mina.core.session.IoSession;
 
 public class MinaServiceHander implements IoHandler {
 
-
     public void exceptionCaught(IoSession arg0, Throwable arg1) throws Exception {
         arg1.printStackTrace();
 
