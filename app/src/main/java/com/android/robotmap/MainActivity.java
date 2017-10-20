@@ -331,6 +331,8 @@ public class MainActivity extends FragmentActivity implements
     @Override
     public void onGeoFenceCreateFinished(List<GeoFence> list, int i, String s) {
 
+
+
     }
 
     private class HandlerThread implements Runnable {
