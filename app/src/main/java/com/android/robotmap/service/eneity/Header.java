@@ -1,7 +1,6 @@
 package com.android.robotmap.service.eneity;
 
 public class Header {
-
 	private int alonght;// 消息总长度
 	
 	// 1:数据包，0：发送完毕，关闭连接,2:心跳包，只有头没有数据,
