@@ -332,7 +332,8 @@ public class MainActivity extends FragmentActivity implements
     public void onGeoFenceCreateFinished(List<GeoFence> list, int i, String s) {
     }
 
-    private class HandlerThread implements Runnable {
+    private class Handl
+            erThread implements Runnable {
         private Socket socket;
 
         public HandlerThread(Socket client) {

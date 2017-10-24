@@ -10,6 +10,7 @@ import org.apache.mina.filter.codec.ProtocolEncoder;
  *
  */
 public class ProtocalFactory implements ProtocolCodecFactory {
+
         private final ProtocalEncoder encoder;  //编码
         private final ProtocalDecoder decoder;  //解码
         public ProtocalFactory(String charset) {
