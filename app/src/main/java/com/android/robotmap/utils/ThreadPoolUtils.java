@@ -13,6 +13,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  */
 
 public class ThreadPoolUtils {
+
     //线程池核心线程数
     private static int CORE_POOL_SIZE = 5;
     //线程池最大线程数
