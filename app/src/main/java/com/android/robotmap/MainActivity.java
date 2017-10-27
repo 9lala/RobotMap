@@ -336,6 +336,7 @@ public class MainActivity extends FragmentActivity implements
         private Socket socket;
 
 
+
         public HandlerThread(Socket client) {
             socket = client;
             new Thread(this).start();
