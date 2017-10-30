@@ -6,7 +6,6 @@ package com.android.robotmap.utils;
 
 public class PointLocation {
 
-
     public double lng;
     public double lat;
     public String location = "";

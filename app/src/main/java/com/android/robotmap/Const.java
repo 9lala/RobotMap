@@ -9,7 +9,6 @@ import android.graphics.Color;
 
 public class Const {
 
-
 	/**
 	 * 地图中绘制多边形、圆形的边界颜色
 	 * @since 3.3.0

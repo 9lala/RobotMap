@@ -307,7 +307,6 @@ public class MainActivity extends FragmentActivity implements
                 .zoomTo(zoomLevel);
         aMap.animateCamera(u);
     }
-
     private void initSocket() {
         ThreadPoolUtils.execute(new Runnable() {
             @Override
