@@ -301,6 +301,7 @@ public class MainActivity extends FragmentActivity implements
 
     }
 
+
     private void setSize() {
         float zoomLevel = Float.parseFloat("13");
         CameraUpdate u = CameraUpdateFactory

@@ -13,6 +13,7 @@ import android.os.IBinder;
 public class HeartBeatService extends Service {
 
 
+
     @Override
     public void onCreate() {
         //开启单独的线程，因为Service是位于主线程的，为了避免主线程被阻塞

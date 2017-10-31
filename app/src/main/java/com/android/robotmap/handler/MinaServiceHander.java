@@ -18,7 +18,6 @@ public class MinaServiceHander implements IoHandler {
 
     }
 
-
     public void messageReceived(IoSession session, Object message) throws Exception {
 //        session.setAttribute("receivetime", System.currentTimeMillis());
         MessageProtocol msg = (MessageProtocol) message;
