@@ -71,6 +71,7 @@ import java.util.List;
  * Created by Administrator on 2017/6/9.
  */
 
+
 public class GeoFenceActivity extends FragmentActivity implements
         View.OnClickListener,
         GeoFenceListener,

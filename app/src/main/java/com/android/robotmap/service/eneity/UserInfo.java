@@ -3,6 +3,7 @@ package com.android.robotmap.service.eneity;
 public class UserInfo {
 
 
+
     private String taskId = "";
     private String status = "";
     private String appId = "";

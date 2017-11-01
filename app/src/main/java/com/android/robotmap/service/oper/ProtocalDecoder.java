@@ -17,6 +17,7 @@ public class ProtocalDecoder extends CumulativeProtocolDecoder {
     private final String charset;
 
 
+
     public ProtocalDecoder(String charset) {
         this.charset = charset;
     }

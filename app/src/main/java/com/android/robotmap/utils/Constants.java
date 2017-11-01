@@ -9,6 +9,7 @@ import com.amap.api.maps.model.LatLng;
 public class Constants {
 
 
+
     public static final String HOST = "localhost";
     public static final int PORT = 6001;
     public static final String MACHINE_ID = "machine_id";
