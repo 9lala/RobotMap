@@ -82,7 +82,6 @@ public class GeoFenceActivity extends FragmentActivity implements
 
 
 
-
     private TextView tvGuide;
     private TextView tvResult;
     private EditText etCustomId;

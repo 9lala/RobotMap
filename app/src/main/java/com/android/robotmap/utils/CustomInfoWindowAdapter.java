@@ -18,7 +18,6 @@ public class CustomInfoWindowAdapter implements AMap.InfoWindowAdapter{
 
 
 
-
     private Context context;
 
     public CustomInfoWindowAdapter(Context context) {

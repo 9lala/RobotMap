@@ -24,7 +24,6 @@ import java.util.List;
 public class AMapUtil {
 
 
-
 	/**
 	 * 判断edittext是否null
 	 */

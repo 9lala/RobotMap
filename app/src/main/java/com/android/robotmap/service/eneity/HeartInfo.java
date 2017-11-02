@@ -8,7 +8,6 @@ import java.util.List;
 public class HeartInfo extends TaskProtocol {
 
 
-
     private List<UserInfo> userInfo;
 
     public List<UserInfo> getUserInfo() {

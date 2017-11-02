@@ -19,7 +19,6 @@ public class HeartBeatConnListener implements IoServiceListener {
 
 
 
-
     public NioSocketConnector connector;
 
     public HeartBeatConnListener(NioSocketConnector connector) {
