@@ -23,6 +23,7 @@ import java.net.InetSocketAddress;
 
 public class MapService extends Service {
 
+
     @Nullable
     @Override
     public IBinder onBind(Intent intent) {
