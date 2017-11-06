@@ -83,7 +83,6 @@ public class MainActivity extends FragmentActivity implements
     private RadioButton fixed, patrol;
     private LinearLayout llPatrol;
     private boolean isAddGeoFece = false;
-
     // 多边形围栏的边界点
     private List<LatLng> polygonPoints = new LinkedList<>();
 

@@ -9,7 +9,6 @@ import android.content.SharedPreferences.Editor;
  */
 public class PreferenceUtils {
 
-
     private static SharedPreferences mSp;
 
     private static SharedPreferences getSp(Context context) {

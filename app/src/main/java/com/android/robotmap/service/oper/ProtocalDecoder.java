@@ -12,7 +12,6 @@ import org.apache.mina.filter.codec.ProtocolDecoderOutput;
 import java.nio.charset.Charset;
 import java.nio.charset.CharsetDecoder;
 
-
 public class ProtocalDecoder extends CumulativeProtocolDecoder {
     private final String charset;
 

@@ -80,7 +80,6 @@ public class GeoFenceActivity extends FragmentActivity implements
         AMapLocationListener,
         CompoundButton.OnCheckedChangeListener {
 
-
     private TextView tvGuide;
     private TextView tvResult;
     private EditText etCustomId;
