@@ -9,6 +9,7 @@ import java.io.Serializable;
 public class TaskInfo implements Serializable {
 
 
+
     private Double lat;
     private Double lng;
     private String apps = "";

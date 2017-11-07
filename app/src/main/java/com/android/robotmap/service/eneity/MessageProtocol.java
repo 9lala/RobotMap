@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 public class MessageProtocol extends Header implements Serializable {
 
+
     /**
      *
      */

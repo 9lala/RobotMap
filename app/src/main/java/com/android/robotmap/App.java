@@ -12,6 +12,7 @@ import com.android.robotmap.utils.PreferenceUtils;
  */
 
 public class App extends Application {
+
     public static Context ctx;
 
     @Override
