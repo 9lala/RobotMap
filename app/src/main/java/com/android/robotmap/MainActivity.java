@@ -68,7 +68,6 @@ import java.util.List;
 
 public class MainActivity extends FragmentActivity implements
         GeoFenceListener {
-
     MapView mMapView = null;
     private AMap aMap;
     private GeocodeSearch geocoderSearch;
