@@ -3,6 +3,7 @@ package com.android.robotmap.service.eneity;
 
 import java.io.Serializable;
 
+
 public class TaskProtocol implements Serializable {
     private int type;
     private TaskInfo task;

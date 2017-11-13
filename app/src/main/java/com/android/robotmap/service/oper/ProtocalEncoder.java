@@ -14,6 +14,7 @@ import java.nio.charset.Charset;
 import java.nio.charset.CharsetEncoder;
 
 public class ProtocalEncoder extends ProtocolEncoderAdapter {
+
 	private final String charset;
 	public ProtocalEncoder(String charset) {
 		this.charset = charset;
