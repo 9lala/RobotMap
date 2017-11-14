@@ -13,6 +13,7 @@ import java.util.List;
  * @author luozhihua
  */
 public class DataProtocol {
+
     private String taskId;
     private List<UserInfo> infoList = new ArrayList<UserInfo>();
 

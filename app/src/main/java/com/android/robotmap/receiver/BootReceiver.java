@@ -11,6 +11,7 @@ import com.android.robotmap.server.MapService;
  * Created by Administrator on 2016/10/17.
  */
 public class BootReceiver extends BroadcastReceiver {
+
     @Override
     public void onReceive(Context context, Intent intent) {
         //改成Socket不需要Http了。
