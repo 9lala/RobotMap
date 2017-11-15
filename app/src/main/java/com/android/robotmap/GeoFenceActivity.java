@@ -73,7 +73,6 @@ import java.util.List;
 
 
 public class GeoFenceActivity extends FragmentActivity implements
-
         View.OnClickListener,
         GeoFenceListener,
         AMap.OnMapClickListener,
