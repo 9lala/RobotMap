@@ -1,6 +1,5 @@
 package com.android.robotmap.handler;
 
-
 import com.android.robotmap.service.eneity.HeartInfo;
 import com.android.robotmap.service.eneity.MessageProtocol;
 import com.android.robotmap.service.eneity.TaskProtocol;
