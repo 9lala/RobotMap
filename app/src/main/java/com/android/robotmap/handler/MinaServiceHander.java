@@ -10,6 +10,7 @@ import org.apache.mina.core.service.IoHandler;
 import org.apache.mina.core.session.IdleStatus;
 import org.apache.mina.core.session.IoSession;
 public class MinaServiceHander implements IoHandler {
+
     public void exceptionCaught(IoSession arg0, Throwable arg1) throws Exception {
         arg1.printStackTrace();
     }
@@ -20,7 +21,7 @@ public class MinaServiceHander implements IoHandler {
         String json = msg.getJson();
         System.out.println("服务端接收的json：" + json);
         //假数据
-//        String json = "{\n" +
+//        String json = "{\n" +..
 //                "    \"type\": \"2\",\n" +
 //                "    \"task\": {\n" +
 //                "        \"id\": \"12\",\n" +
