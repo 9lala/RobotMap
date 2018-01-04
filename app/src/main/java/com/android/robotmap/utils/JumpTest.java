@@ -5,6 +5,7 @@ package com.android.robotmap.utils;
  */
 
 public class JumpTest {
+
     public static void main(String[] args) {
         calc(117, 57);
     }
