@@ -8,7 +8,6 @@ public class JumpTest {
     public static void main(String[] args) {
         calc(117, 57);
     }
-
     private static void calc(double v, double v2) {
         double v3 = hypotenuse(v, v2);
         System.out.println((v3 / 145.619367) * 769 + "");
